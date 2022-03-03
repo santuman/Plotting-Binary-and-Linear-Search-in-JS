@@ -1,4 +1,4 @@
-# PlottingBinary and Linear Search
+# Plotting Binary and Linear Search
 
 ## Demo
 
