@@ -6,4 +6,4 @@
 
 PS: You have to wait couple of secs
 
-![Demo]("demo.png")
+![Demo](demo.png)
