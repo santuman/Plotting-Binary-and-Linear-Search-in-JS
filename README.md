@@ -2,8 +2,7 @@
 
 ## Youtube video
 
-[![Plotting Binary and Linear Search Algorithm](https://yt-embed.herokuapp.com/embed?v=KWoSqRh2J2Q)](https://www.youtube.com/watch?v=KWoSqRh2J2Q "Plotting Binary and Linear Search Algorithm")
-
+[![Plotting Binary and Linear Search Algorithm](http://img.youtube.com/vi/KWoSqRh2J2Q/0.jpg)](http://www.youtube.com/watch?v=KWoSqRh2J2Q "Plotting Binary and Linear Search Algorithm")
 
 ## Demo
 
